@@ -50,7 +50,7 @@
 
                 <q-img src="~assets/laravel-vue.jpeg"></q-img>
 
-                <h4>Instalação CLI:</h4>
+                <h4 style="color: #3ab982;">Instalação CLI:</h4>
 
                 <p>O Vue.js foi criado com base no template do Angular, porém usando recursos do React, como a componentização e controle e manipulação da árvore DOM.</p>
 
@@ -62,14 +62,14 @@
 
                 <q-img class="q-mt-md" src="~assets/template-vue.jpg"></q-img>
 
-                <h4>Instalação CDN:</h4>
+                <h4 style="color: #3ab982;">Instalação CDN:</h4>
 
                 <p>Se a instalção via cli já é molezinha, com o CDN vira coisa de criança.</p>
                 <p>Apenas uma linha de script, isso mesmo, basta uma linha de script, em seu HTML o Vue JS estará rodando.</p>
 
                 <q-img src="~assets/cli-vue.jpg"></q-img>
 
-                <h4>Doc Oficial:</h4>
+                <h4 style="color: #3ab982;">Doc Oficial:</h4>
 
                 <p>
                     A Documentação do Vue JS é muito rica, fácil de consultar e de se aplicar, destacando os conceito de: Diretivas, Reaproveitamento de Código - Programação Orientada a Objetos, Two Way Data Binde, Conceitos de Reatividade

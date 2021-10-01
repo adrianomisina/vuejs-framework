@@ -6,7 +6,7 @@
       style="width: 20em; height: auto;"
     >
     <div>
-      <h4>Welcome to Vue JS</h4>
+      <h4 style="color: #3ab982;">Welcome to Vue JS</h4>
     </div>
 
     <div>
