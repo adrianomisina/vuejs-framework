@@ -3,7 +3,7 @@
     <img
       alt="Quasar logo"
       src="~assets/vue-logo.png"
-      style="width: 25em; height: auto;"
+      style="width: 20em; height: auto;"
     >
     <div>
       <h4>Welcome to Vue JS</h4>

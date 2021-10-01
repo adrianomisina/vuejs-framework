@@ -2,7 +2,7 @@
     <q-page class="flex column justtify-center flex-center q-gutter q-mt-lg">
         <q-card class="flex column justtify-center flex-center bg-primary my-card q-gutter">
             <div class="q-pt-md">
-                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 25em; height: auto;" />
+                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 20em; height: auto;" />
             </div>
 
             <h2 style="color: #3ab982;">Vue Doc</h2>
@@ -14,7 +14,7 @@
             </q-img>
 
             <q-card-section style="color: #c7eadb; font-size: 1.1em;">
-                <h4 style="color: #3ab982;">Origen:</h4>
+                <h4 style="color: #3ab982;">Origem:</h4>
 
                 <p>
                     O Vue foi criado por Evan You após trabalhar para o Google usando AngularJS em vários projetos.
@@ -29,7 +29,7 @@
                     quais dentro do gênero de ficção científica .
                 </p>
 
-                <h4 style="color: #3ab982;">1º Lugar no Github:</h4>
+                <h4 style="color: #3ab982;">1º no Github:</h4>
 
                 <p>
                     Segundo o <a href="https://www.youtube.com/watch?v=bEl6yN3vd-U" style="color: #c7eadb;">Canal Código Fonte</a> , a poluparidade do Vue JS entre os desenvolvedores Frontend vem crescendo absurdamente, ultrapassando o
@@ -37,12 +37,12 @@
                 </p>
                 <q-img src="~assets/estrelas-github.jpg"></q-img>
 
-                <h4 style="color: #3ab982;">EXtremamente Leve:</h4>
+                <h4 style="color: #3ab982;">Leve:</h4>
                 <p>
                     Ele é absurdamente leve (cerca de 20.9K Gzipped), isso já com todas as ferramentas básicas para iniciar o projeto.
                 </p>
 
-                <h4 style="color: #3ab982;">Integração com o Backend</h4>
+                <h4 style="color: #3ab982;">Backend Integrado:</h4>
 
                 <p>
                     Integração, por exemplo, com a Linguagem PHP e com seu principal framework Laravel:
@@ -50,7 +50,7 @@
 
                 <q-img src="~assets/laravel-vue.jpeg"></q-img>
 
-                <h4>Instalação Via CLI:</h4>
+                <h4>Instalação CLI:</h4>
 
                 <p>O Vue.js foi criado com base no template do Angular, porém usando recursos do React, como a componentização e controle e manipulação da árvore DOM.</p>
 
@@ -62,7 +62,7 @@
 
                 <q-img class="q-mt-md" src="~assets/template-vue.jpg"></q-img>
 
-                <h4>Instalação Via CDN:</h4>
+                <h4>Instalação CDN:</h4>
 
                 <p>Se a instalção via cli já é molezinha, com o CDN vira coisa de criança.</p>
                 <p>Apenas uma linha de script, isso mesmo, basta uma linha de script, em seu HTML o Vue JS estará rodando.</p>

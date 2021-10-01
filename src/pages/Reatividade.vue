@@ -2,7 +2,7 @@
     <q-page class="flex column justtify-center flex-center q-gutter q-mt-lg">
         <q-card class="flex column justtify-center flex-center bg-primary my-card q-gutter">
             <div class="q-pt-md">
-                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 25em; height: auto;" />
+                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 20em; height: auto;" />
             </div>
 
             <h3 style="color: #3ab982;">Reativo Vue JS</h3>

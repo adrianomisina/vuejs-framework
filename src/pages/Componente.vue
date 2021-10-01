@@ -2,10 +2,10 @@
     <q-page class="flex column justtify-center flex-center q-gutter q-mt-lg">
         <q-card class="flex column justtify-center flex-center bg-primary my-card q-gutter">
             <div class="q-pt-md">
-                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 25em; height: auto;" />
+                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 20em; height: auto;" />
             </div>
 
-            <h2 style="color: #3ab982;">Vue Components:</h2>
+            <h3 style="color: #3ab982;">Components:</h3>
 
             <q-img src="~assets/vue_component.png" style="background-color: #fff;">
                 <div class="absolute-bottom text-h6">

@@ -2,10 +2,10 @@
     <q-page class="flex column justtify-center flex-center q-gutter q-mt-lg">
         <q-card class="flex column justtify-center flex-center bg-primary my-card q-gutter">
             <div class="q-pt-md">
-                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 25em; height: auto;" />
+                <img alt="Vue logo" src="~assets/vue-logo.png" style="width: 20em; height: auto;" />
             </div>
 
-            <h3 style="color: #3ab982;">Progress Vue JS</h3>
+            <h3 style="color: #3ab982;">Progressivo</h3>
             <q-img src="~assets/laravel-vue.jpeg"> </q-img>
             <q-card-section style="color: #c7eadb; font-size: 1.1em;">
                 <h4 style="color: #3ab982;">Adaptação é a Chave:</h4>
